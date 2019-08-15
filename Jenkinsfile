@@ -2,7 +2,7 @@ node {
   def mvnHome
   
   stage('Preparation') { // for display purposes
-     // Get some code ghjyhghjhgjhgjhgjfrom a GitHub repository
+     // Get some code a GitHub repository
      git 'https://github.com/johndavid93/impor1.git'
   }
   
